@@ -14,3 +14,7 @@ Las trabajos se entreagarán a través de Github respondiendo a una invitación 
 Para lo que vamos a hacer sólo se necesitan los comandos básicos para copiar repositorios y subir información. No es necesario hacer branches, merges, etc....
 Para un primer tutorial vean <https://www.youtube.com/watch?v=SWYqp7iY_Tc>
 Pero hay muchos.
+
+## Login sala Turing
+
+dwh ( pwd: mineria08 )
