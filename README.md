@@ -1,6 +1,10 @@
 # Repositorio de Aprendizaje de Máquina
 
-La carpeta de clases contiene las presentaciones de clase. En la carpeta de lecturas se almacenan los artículos que se pide lean durante el curso mas aparte otras lecturas que pueden ser de tu interes. La carpeta startercode contendrá código que puede resultarles útil. Seguramente durante el semestre apareceran otras carpetas con datos.
+La carpeta de clases contiene las presentaciones de clase. En la carpeta de lecturas se almacenan los artículos que se pide lean durante el curso mas aparte otras lecturas que pueden ser de tu interes. La carpeta startercode contendrá código que puede resultarles útil.
+La carpeta varios incluye algunos manuales de instalación así como códigos y paquetes relevantes.
+
+
+Seguramente durante el semestre apareceran otras carpetas con datos.
 
 
 ## Preguntas
@@ -21,4 +25,4 @@ dwh ( pwd: mineria08 )
 
 ## Para python
 
-[Environment]::SetEnvironmentVariable("Path", "$env:Path;C:\Python27\;C:\Python27\Scripts\", "User") 
+[Environment]::SetEnvironmentVariable("Path", "$env:Path;C:\Python27\;C:\Python27\Scripts\", "User")
