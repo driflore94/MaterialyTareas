@@ -1,4 +1,4 @@
-# Repositorio Aprendizaje de Máquina
+# Repositorio de Aprendizaje de Máquina
 
 La carpeta de clases contiene las presentaciones de clase. En la carpeta de lecturas se almacenan los artículos que se pide lean durante el curso mas aparte otras lecturas que pueden ser de tu interes. La carpeta startercode contendrá código que puede resultarles útil. Seguramente durante el semestre apareceran otras carpetas con datos.
 
