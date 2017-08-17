@@ -18,3 +18,7 @@ Pero hay muchos.
 ## Login sala Turing
 
 dwh ( pwd: mineria08 )
+
+## Para python
+
+[Environment]::SetEnvironmentVariable("Path", "$env:Path;C:\Python27\;C:\Python27\Scripts\", "User") 
