@@ -9,6 +9,10 @@ El ejercicio consiste simplemente en subir un archivo (algo chico por favor) sig
 https://classroom.github.com/a/XRTLhkQu
 
 
-1. Simulación Chabelo. Sin asignar
+1. Simulación Chabelo. Asignación 24 de agosto
 
 https://classroom.github.com/a/YlPWonpR
+
+2. Filtro Spam Bayes. Asignación 31 de agosto
+
+https://classroom.github.com/a/JbrYAVwf
