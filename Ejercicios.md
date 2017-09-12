@@ -16,3 +16,11 @@ https://classroom.github.com/a/YlPWonpR
 2. Filtro Spam Bayes. Asignación 31 de agosto
 
 https://classroom.github.com/a/JbrYAVwf
+
+3. Linear regression and error curve plot. Assigned  september 7, deadline september 14
+
+https://classroom.github.com/a/sGRQqsZe
+
+4. Incremental linear regression. Assigned september 7, deadline september 18
+
+https://classroom.github.com/a/5HlHCdae
