@@ -24,3 +24,6 @@ https://classroom.github.com/a/sGRQqsZe
 4. Incremental linear regression. Assigned september 7, deadline september 18
 
 https://classroom.github.com/a/5HlHCdae
+
+5. Regularization. Assigned september 14th, deadline septiember 25th
+https://classroom.github.com/a/1xFFtZNl
