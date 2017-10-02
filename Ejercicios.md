@@ -25,5 +25,9 @@ https://classroom.github.com/a/sGRQqsZe
 
 https://classroom.github.com/a/5HlHCdae
 
-5. Regularization. Assigned september 14th, deadline septiember 25th
+5. Regularization. Assigned september 14th, deadline september 25th
 https://classroom.github.com/a/1xFFtZNl
+
+6. Model Selection. Assigned september 28, deadline october 7th
+https://classroom.github.com/a/DHXADbRe
+Brief description: Find the best value for the lambda parameter using crossvalidation.
