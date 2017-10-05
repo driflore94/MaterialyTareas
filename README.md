@@ -6,6 +6,12 @@ La carpeta varios incluye algunos manuales de instalación así como códigos y 
 
 Seguramente durante el semestre apareceran otras carpetas con datos.
 
+## Examinations
+
+The first exam will take place on october 19th. It will cover all material up to what is covered in the class of the 12th.
+
+It is sufficient to study from the class slides plus the class exercises. This material is also present in chapters 1-4 and chapter 7 (not all of the contents in each chapeter, check themes on slides) of the Hastie book <https://web.stanford.edu/~hastie/Papers/ESLII.pdf>
+
 
 ## Preguntas
 
