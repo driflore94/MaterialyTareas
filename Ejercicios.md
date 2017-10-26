@@ -30,4 +30,14 @@ https://classroom.github.com/a/1xFFtZNl
 
 6. Model Selection. Assigned september 28, deadline october 7th
 https://classroom.github.com/a/DHXADbRe
-Brief description: Find the best value for the lambda parameter using crossvalidation.
+
+    Brief description: Find the best value for the lambda parameter using cross validation.
+
+7. Neural Networks. Assigned october 26, deadline october 2nd
+https://classroom.github.com/a/Kq1WtaWc
+
+    Brief description: 
+   1. Train a logistic regression for the AND and XOR problems using Tensorflow
+   2. Train a ANN for the XOR problem and create a visualization that enables you to visualize the decision boudaries
+   3. Train a ANN that identifies points inside a circle (generate the data yourself). Experiment with the number of neurons in the intermediate layer
+   4. Optional: Plot the error vs the model complexity
