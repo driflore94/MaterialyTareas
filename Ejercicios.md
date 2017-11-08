@@ -39,3 +39,10 @@ https://classroom.github.com/a/Kq1WtaWc
    2. Train a ANN for the XOR problem and create a visualization that enables you to visualize the decision boudaries
    3. Train a ANN that identifies points inside a circle (generate the data yourself). Experiment with the number of neurons in the intermediate layer
    4. Optional: Plot the error vs the model complexity
+
+
+8. Deep Learning . Assigned october 26. Deadline november 16th
+https://classroom.github.com/a/NZT2Ilxw
+
+    Brief description:
+    Design an experiment to visualize the learning slowdown problem in deep networks. Experiment with different transfer functions
