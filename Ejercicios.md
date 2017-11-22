@@ -46,3 +46,18 @@ https://classroom.github.com/a/NZT2Ilxw
 
     Brief description:
     Design an experiment to visualize the learning slowdown problem in deep networks. Experiment with different transfer functions
+
+9. SVM. Assigned november 9th. Deadline november 24th
+https://classroom.github.com/a/tRYV0FQ-
+
+    Brief description (detail on slides): Plot decision boundary and margin for a linear svm. Compare the performace of an SVM to that of a Neural net for classifying points inside a circle
+
+10. Classification trees. Assigned november 23. Deadline november 30
+https://classroom.github.com/a/4vjfrg2B
+
+    Brief description: Train and test a decision tree. Plot tree
+
+11. k nearest neighbor. Assigned november 23. Deadline november 30
+https://classroom.github.com/a/v6EqZ0aB
+
+    Brief description: Create may circles in 2-D. Make a knn classifier to detect points inside the circles. Compare to SVMs and/or Neural networks 
