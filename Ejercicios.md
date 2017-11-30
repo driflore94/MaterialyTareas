@@ -60,4 +60,15 @@ https://classroom.github.com/a/4vjfrg2B
 11. k nearest neighbor. Assigned november 23. Deadline november 30
 https://classroom.github.com/a/v6EqZ0aB
 
-    Brief description: Create may circles in 2-D. Make a knn classifier to detect points inside the circles. Compare to SVMs and/or Neural networks 
+    Brief description: Create may circles in 2-D. Make a knn classifier to detect points inside the circles. Compare to SVMs and/or Neural networks
+
+12. Random forests. Assigned november 30. Deadline december 14
+https://classroom.github.com/a/X4COtNky
+
+    Brief description: Compare the performance of a random forest with the performance of a decision tree
+
+
+13. k-means. Assigned november 30. Deadline december 14
+https://classroom.github.com/a/6YEGVzIj
+
+    Brief description: Segment a data set using k-means and train a classification model on each cluster. Compare perfomance with or without this pre-processing 
