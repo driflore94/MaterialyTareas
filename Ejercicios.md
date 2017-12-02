@@ -71,4 +71,4 @@ https://classroom.github.com/a/X4COtNky
 13. k-means. Assigned november 30. Deadline december 14
 https://classroom.github.com/a/6YEGVzIj
 
-    Brief description: Segment a data set using k-means and train a classification model on each cluster. Compare perfomance with or without this pre-processing 
+    Brief description: Segment a data set using k-means and train a classification model on each cluster. Compare performance with or without this pre-processing
