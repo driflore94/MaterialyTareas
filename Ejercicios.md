@@ -31,6 +31,7 @@ https://classroom.github.com/a/DHXADbRe
 
     Brief description: Find the best value for the lambda parameter using cross validation.
 
+
 7. Neural Networks. Assigned october 26, deadline november 2nd
 https://classroom.github.com/a/Kq1WtaWc
 
