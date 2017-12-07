@@ -73,3 +73,7 @@ https://classroom.github.com/a/X4COtNky
 https://classroom.github.com/a/6YEGVzIj
 
     Brief description: Segment a data set using k-means and train a classification model on each cluster. Compare performance with or without this pre-processing
+14. Final project. Deadline december 15th
+https://classroom.github.com/a/g1oQwIg3
+
+    Brief description: Specification in Proyecto2017.pdf
